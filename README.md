@@ -3,8 +3,9 @@
 1. Clone this repo
 2. Install dependencies with `npm i`
 3. Install it as CLI app with `npm i -g .` (or `npm link`) with terminal in this repo
-   3.1. To make sure it was installed run `npm ls -g`
-   3.2. Run `npm uninstall -g todo` to uninstall it
+
+- To make sure it was installed run `npm ls -g`
+- Run `npm uninstall -g todo` to uninstall it
 
 ## How to use
 
